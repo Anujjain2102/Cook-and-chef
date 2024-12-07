@@ -1,0 +1,14 @@
+Front end: React JS
+Back end: Spring boot
+Database: MongoDB
+Version Control: Git
+CI/CD: Jenkins
+Containerization: Kubernetes
+Cloud Providers: AWS
+Monitoring/Logging: ELK Stack
+Infrastructure as Code: AWS CloudFormation
+Security: Spring Security
+Testing: JEST, JUNIT, Selenium
+Caching: Redis
+API management: Swagger
+State Management: Redux

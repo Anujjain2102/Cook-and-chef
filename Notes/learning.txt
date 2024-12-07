@@ -1,0 +1,21 @@
+Java:
+https://www.youtube.com/playlist?list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr
+
+Springboot:
+https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue
+https://github.com/anshjain-24/Digesting-Spring-Boot
+
+MongoDB:
+https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
+
+Eleastic Search:
+https://www.youtube.com/playlist?list=PLA3GkZPtsafYd5m2BXmkL9pjsBKy0FQ2X
+
+ELK: 
+https://youtu.be/bcsII2dGnDU?si=ZVyqMMb_UL_gNvvL
+
+React:
+https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige
+
+JS:
+https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
